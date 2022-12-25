@@ -8,6 +8,7 @@
     align-items: center;
     margin: 0;
     height: 100vh;
+    background-image: linear-gradient(to left, purple,white);
   }
   
   img {
